@@ -6,6 +6,8 @@ The overall idea is to keep collections on a per needs basis.
 
 Full list of folders
 
+![Folderlist](https://github.com/JonathanLefebvreGlobensky/Images/blob/master/Collection%20Folders.jpg)
+
 Full list of collections
 
 All Servers
