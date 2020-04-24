@@ -1,4 +1,5 @@
 The script creates 17 folders and 36 collections. 
+For more details, see blog post at https://www.systemcenterdudes.com/sccm-powershell-script-collections-folders/
 
 The collections will be placed under the right folder based on the purpose of the collection
 The collections are set to 7 days refresh period
