@@ -25,8 +25,8 @@ Set-location $SiteCode":"
 $CollectionPrefix='BG - '
 
 #Define possible limiting collections
-#$LimitingCollection = "All Systems"
-$LimitingCollection = "All Workstations"
+$LimitingCollection = "All Systems"
+#$LimitingCollection = "All Workstations"
 #$LimitingCollection = "All Workstations - Admin"
 #$LimitingCollection = "All Servers"
 
