@@ -31,7 +31,7 @@ $LimitingCollection = "All Systems"
 #$LimitingCollection = "All Servers"
 
 #Refresh Schedule
-$Schedule = New-CMSchedule –RecurInterval Days –RecurCount 1
+$Schedule = New-CMSchedule -RecurInterval Days -RecurCount 1
 
 #Create sub folder for Boundary groups collection
 new-item -NAme 'Boundary Groups based collection' -Path $($SiteCode.Name+":\DeviceCollection")
